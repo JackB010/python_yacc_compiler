@@ -1,0 +1,19 @@
+#############################################
+#############   Mini Py compiler   ##########
+#############################################
+if (0>2): # ceci est un commentaire
+    if (1): # ceci est un commentaire
+        if (0): # ceci est un commentaire
+            # ceci est un commentaire
+            I = 0
+            for I in range(7,9):
+                M = (32767)
+int A[9]
+for I in A:
+    P = 9
+
+while (A):
+    PO =9
+for R in range(1,0):
+    Y = A and A and A
+    K = (0==9)

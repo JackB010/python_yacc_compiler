@@ -1,0 +1,3 @@
+flex.exe .\lex_C.l
+bison.exe -d -v .\yacc_C.y
+gcc .\lex.yy.c -o prog
